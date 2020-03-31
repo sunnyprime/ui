@@ -1,0 +1,29 @@
+{
+    "id": "aa12bb2e-1997-42f7-a90f-72e26823eeb4",
+    "username": "9666837027",
+    "password": "y0qVs9KjVjSGom8/WwMCkfPMLFgd+CY4a0mC8VpPyxA=",
+    "email": "pranjalk@bricknbolt.com",
+    "firstName": "Pranjal",
+    "lastName": "Kumar",
+    "createdDate": "2019-12-04T07:03:20.000+0000",
+    "telephonyNumber": "9666837027",
+    "userGroups": [
+        {
+            "id": "f0713211-f7fa-4d18-a79c-e2ba985765bd",
+            "name": "SOFTWARE_ENGINEER",
+            "groupPermissions": [
+                {
+                    "id": "242acff8-b898-4d21-8922-f77416fb24ae",
+                    "name": "ADMIN"
+                }
+            ]
+        }
+    ],
+    "userPermissions": [
+        {
+            "id": "242acff8-b898-4d21-8922-f77416fb24ae",
+            "name": "ADMIN"
+        }
+    ],
+    "active": true
+}
